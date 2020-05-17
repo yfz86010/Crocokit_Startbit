@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" x="0" y="0"/><block type="CrocoKit_Sensor_Light" disabled="true" x="530" y="104"><field name="pin">AnalogPin.P0</field></block><block type="CrocoKit_Sensor_Light" disabled="true" x="311" y="130"><field name="pin">AnalogPin.P0</field></block><block type="ledbit_led_show" disabled="true" x="400" y="246"><field name="index">LEDBit.enExpression.FACE1</field></block></xml>
