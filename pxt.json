@@ -6,7 +6,6 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "LEDBit": "github:yfz86010/led-bit#e7f18cc74ae1388fef6068196bb0ecdb12c157ff",
         "startbit": "github:yfz86010/startbit#f9d3eab5ffa72d43bccf9c07c98a7b68261778c3",
         "Croco-Kit": "github:yfz86010/croco-kit#2a181955412e937a647f0f121c4744bbb7fc23b0"
     },
